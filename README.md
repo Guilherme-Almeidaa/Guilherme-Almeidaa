@@ -3,6 +3,9 @@ Meu nome é Guilherme Almeida, sempre amei tecnologia,desafios e resolver proble
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Almeidaa&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Almeidaa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
