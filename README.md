@@ -1,4 +1,4 @@
-###Bem Vindo 👋
+###Bem Vindo 👋<br>
 Sempre amei tecnologia,desafios e resolver problemas.Então atualmente estou desenvolvendo essas três paixões na Trybe, uma escola que oferece uma experiência real do dia a dia de trabalho de um desenvolvedor de software e nela venho praticando e aprendendo as principais tecnologias do mercado como por exemplo Java Script, React e node.js.
 
 <!--
